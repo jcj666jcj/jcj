@@ -37,7 +37,7 @@ st.set_page_config(
 #标题
 st.title("ai智能伴侣")
 #logo
-st.logo("第三章/logo.webp")
+st.logo("logo.webp")
 
 #加载指定的对话信息
 def load_session(session_name):
